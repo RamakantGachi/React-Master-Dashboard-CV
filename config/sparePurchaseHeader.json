@@ -1,0 +1,68 @@
+[
+    {
+        "DEALER CODE": "3084960",
+        "ORD ID": "1-10BTS9G",
+        "CREATED DATE": "2021-02-19 12:00:02",
+        "LAST UPDATED DATE": "2021-02-19 12:00:02",
+        "ROW ID": "5-5OM34-153",
+        "INVOICE NUMBER": "0743120503", //mandatory
+        "TYPE CODE": "Standard", //mandatory
+        "FROM INVOICE DATE":"",
+        "TO INVOICE DATE": "0", //mandatory
+        "STATUS": "New",
+        "ORDER NUMBER": "SAP-0003084960-2021-0008409505",
+        "TM ORDER DATE": "2020-10-29 00:00:00",
+        "TM NET AMOUNT": "39688.78",
+        "TAXES": "7143.98",
+        "TOTAL AMOUNT": "46832.76",
+        "TM TALLY OTC NARRATION": "Order Number - SAP-0003084960-2021-0008409505",
+        "TM PAYER CODE": "0004184960",
+        "TM DIVISION NAME": "3084960-Sv&Pa-Noida",
+        "TM TALLY DEFAULT TAXES": "0",
+        "TM TALLY DEFAULT TAXES": "0",
+        "TM TALLY DEFAULT TAXES": "0",
+        "TM TALLY DEFAULT TAXES": "0",
+        "TM TALLY DEFAULT TAXES": "0",
+        "TM TALLY DEFAULT TAXES": "0",
+        "TM TALLY DEFAULT TAXES": "0",
+        "TM TALLY DEFAULT TAXES": "0",
+        "TM CST": "0",
+        "TM CST SURCHARGE": "0",
+        "TM ADDITIONAL TAXES": "0",
+        "TM TOTAL TAX": "0",
+        "TM CGST": "0",
+        "TM SGST": "0",
+        "TM UTGST": "0",
+        "TM IGST": "7143.98",
+        "TM OUTPUT CGST": "Output @ CGST",
+        "TM OUTPUT SGST": "Output @ SGST",
+        "TM OUTPUT UTGST": "Output @ UTGST",
+        "TM OUTPUT IGST": "Output @ IGST",
+        "TM VAT PART ASSESSIBLE AMT1": "0",
+        "TM VAT PART ASSESSIBLE AMT2": "0",
+        "TM VAT PART ASSESSIBLE AMT3": "39688.78",
+        "TM VAT PART ASSESSIBLE AMT4": "0",
+        "TM TML GSTIN": "06AAACT2727Q1Z0",
+        "TM GST INVOICE NUMBER": "HR0100161064",
+        "TM C FORM NUMBER": "0",
+        "TM SUBMISSION DATE": "0",
+        "TM ACKNOWLEDGMENT DATE": "0",
+        "PLANT CODE": "4770",
+        "STATUS TYPE": "0",
+        "REJECTION REASON": "0",
+        "REJECTION REMARKS": "0",
+        "TM DOCKET NO": "SSPL-401515",
+        "TM C FORM DATE": "0",
+        "TM ROAD PERMIT NO": "0",
+        "TM TCS PERCENTAGE": "0",
+        "TM TCS ASSESSABLE AMOUNT": "0",
+        "TM FINAL TCS AMOUNT": "0",
+        "IRN_DATE": "0",
+        "IRN": "0",
+        "IRN_STATUS": "0"
+    }
+]
+
+//below are backend search parmaters to map and post request
+//INVOICE, INVOICE_TYPE, INVOICE_DATE
+//Post Request: https://aip-ae-spare-purchase-header-qa-esb.api.tatamotors.com/api/crm/search

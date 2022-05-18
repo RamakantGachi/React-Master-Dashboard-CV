@@ -1,0 +1,25 @@
+[
+  {
+    "DEALER CODE": "3080580",
+    "ORG ID": "1-1SE9KP7",
+    "ROW ID": "5-CDC0IJ4",
+    "CREATED DATE": "2021-02-05 13:34:54",
+    "LAST UPDATED DATE": "2021-02-05",
+    "CUSTOMER CODE": "5-CD83JAZ",
+    "FIRST NAME": "FIRST NAME",
+    "LAST NAME": "LAST NAME",
+    "MIDDLE NAME": null,
+    "ADDRESS LINE1": "CONTACT ADDRESS VENDOR 23/10 TMCV",
+    "ADDRESS LINE2": "CONTACT ADDRESS 1 VENDOR 23/10 TMCV",
+    "CITY": "ACHANUR",
+    "STATE": "KA",
+    "PINCODE": "587119",
+    "RELATIONSHIP NUMBER": null,
+    "GROUP": "Sundry Debtors",
+    "CUSTOMER NAME": "FIRST NAME  LAST NAME",
+    "PHONE": "6789123456",
+    "FAX": null,
+    "EMAIL": null,
+    "DIVISION": "3080580-Sv&Pa-NellorePar"
+  }
+]

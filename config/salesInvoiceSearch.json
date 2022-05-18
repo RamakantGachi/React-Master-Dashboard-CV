@@ -1,0 +1,11 @@
+{
+    "DEALER_CODE": "3001370", //not to seen in UI
+    "INVOICE_DATE": "0",   /*mandatory*/
+    "BU_ID": "1-2D7BI9", //Not to seen in UI
+    "INVOICE_NO": "5-26925631132", //mandatory
+    "ORDER_NO": "SO-MSamAu-AN-2021-001632" //mandatory
+}
+
+
+
+//search internal API: https://aip-vehicle-sales-invoice-qa-esb.api.tatamotors.com/api/crm/search

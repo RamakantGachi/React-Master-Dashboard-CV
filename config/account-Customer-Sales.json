@@ -1,0 +1,26 @@
+[
+  {
+    "DEALER CODE": "3000380",
+    "ORD ID": "1-6TT",
+    "ROW ID": "5-CE44B23",
+    "CREATED DATE": "2021-12-16",
+    "LAST UPDATED DATE": "2022-01-31",
+    "CUSTOMER NAME": "NANDAN KUMAR",
+    "CUSTOMER CODE": "1-ET9Y3I",
+    "ADDRESS LINE": "DHANBAD KATRASH",
+    "ADDRESS LINE2": null,
+    "CITY": "DHANBAD",
+    "STATE": "JH",
+    "PIN CODE": "826001",
+    "RELATIONSHIP NUMBER": null,
+    "GROUP": "Sundry Debtors",
+    "FIRST NAME": "TEST",
+    "LAST NAME": "EDD",
+    "MIDDLE NAME": null,
+    "PHONE": "2304930",
+    "FAX": null,
+    "EMAIL": "edd@edd.com",
+    "DIVISION": "3000380-Sales-Nerul-Fortune",
+    "GSTIN": null
+  }
+]

@@ -1,0 +1,670 @@
+{ 
+  "SALES": [
+    {
+      "name": "Vehicle Debit Note",
+      "url": "vehicle-debit-note",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Stock Invoice",
+      "url": "vehicle-stock-invoice",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Sales Invoice",
+      "url": "vehicle-sales-invoice",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Purchase",
+      "url": "vehicle-purchase",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Master",
+      "url": "vehicle-master",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Account/Customer Sales",
+      "url": "ac-sales",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Account/Customer - SS",
+      "url": "ac-ss",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Sales Invoice-Debit Note",
+      "url": "vehicle-sales-invoice-debit-note",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Vehicle Sales Invoice-Credit Note",
+      "url": "vehicle-sales-invoice-credit-note",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    }
+
+  ],
+  "SERVICES": [
+    {
+      "name": "Claims Ledger",
+      "url": "claims-ledger",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+
+    {
+      "name": "Job Card Invoice Header",
+      "url": "job-card-invoice-header",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+
+    {
+      "name": "Job Card Invoice Details",
+      "url": "job-card-invoice-details",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+
+    {
+      "name": "Job Card Invoice Deatils-For Labour",
+      "url": "Job Card Invoice Deatils-For Labour",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+
+    {
+      "name": "Vehicle Credit Note",
+      "url": "vehicle-credit-note",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Vendor Account Service",
+      "url": "Vendor Account Service",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "FSB Settlement Chassis Report",
+      "url": "fsb-settlement-chassis-report",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    
+    {
+      "name": "GST Warranty Claim Report",
+      "url": "GST Warranty Claim Report",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+
+    {
+      "name": "GST Extended Warranty Claim Report",
+      "url": "GST Warranty Claim Report",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Claim Settlement GST",
+      "url": "claim-settlement-gst",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+
+    {
+      "name": "GST Invoice",
+      "url": "gst-invoice",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+  
+   
+    {
+      "name": "Month Credit/Debit Summary Report",
+      "url": "Month Credit/Debit Summary Report",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    }
+
+
+  ],
+  "SPARES": [
+    {
+      "name": "Dealer Part Master",
+      "url": "dealer-part-master",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Internal Order Inward Detail",
+      "url": "Internal Order Inward Detail",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Internal Order Outward Detail",
+      "url": "internal-Order-outward-detail",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "OTC Sales Header",
+      "url": "otc-sales-haeder",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "OTC Sales Details",
+      "url": "otc-sales-details",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Purchase Return Header",
+      "url": "purchase-return-header",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+
+    {
+      "name": "Purchase Return Details",
+      "url": "Purchase Return Details",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Receipts",
+      "url": "Receipts",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Sales Return Order Header",
+      "url": "Sales Return Order Header",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Local Purchase Details",
+      "url": "Local Purchase Details",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Spares Purchase Header",
+      "url": "Spares Purchase Header",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Opening Stock Extract",
+      "url": "Opening Stock Extract",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Stock Adjustment Extract",
+      "url": "Stock Adjustment Extract",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Stock Transfer Extract",
+      "url": "Stock Transfer Extract",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "name": "Vendor Account Relation-Hierachy",
+      "url": "Vendor Account Relation-Hierachy",
+      "fields": [
+        {
+          "name": "Dealer Code",
+          "code": "DEALER_CODE",
+          "fieldType": "int",
+          "required": true
+        },
+        {
+          "name": "BU ID",
+          "code": "BU_ID",
+          "fieldType": "int",
+          "required": true
+        }
+      ]
+    }
+
+  ]
+}

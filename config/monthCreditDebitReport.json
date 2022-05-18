@@ -1,0 +1,25 @@
+[
+    {
+        "client": "250",
+        "zdlrno": "0003000380",
+        "zvehcat": "SSCAR",
+        "zbusinessunit": "C012",
+        "zperiod": "082010",
+        "zpcrsettld": "00002",
+        "ztotpartcr": "322.22",
+        "zmiscchgs": "35.1",
+        "zlaborchg": "17.5",
+        "zservicetax": "1.8",
+        "zgrosscredit": "376.62",
+        "ztotdebit": "0.0",
+        "zname": "FORTUNE CARS PVT LTD1",
+        "zadd": "PLOT NO D/237",
+        "zcity": "NAVI MUMBAI",
+        "zpostal": "400706",
+        "ztdspartcredit": "0.0",
+        "znetpartcredit": "0.0"
+    }
+]
+
+//ZDlrNo, ZVehCat, ZPeriod, Zdealer, ZVehCtgr, DateCredit
+//post:https://aip-month-credit-debit-ws-pv-jdg-qa-esb.api.tatamotors.com/api/sap/search

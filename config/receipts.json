@@ -1,0 +1,41 @@
+[
+    {
+        "DEALER CODE": "3000380",
+        "ORG ID": "1-6TT",
+        "ROW ID": "5-CDLJL3I",
+        "CREATED DATE": "2021-08-08", //mandatory
+        "LAST UPDATE DATE": "2021-08-31", //mandatory
+        "RECEIPT NUMBER": "0",
+        "PAYMENT": "2021-08-08 00:00:00",
+        "PAYMENT METHOD": "Cash",
+        "PAYMENT STATUS": "New",
+        "PAYMENT STATUS AS OF DATE": "0",
+        "TMPC BANK NAME": "0",
+        "TMPC BRANCH": "0",
+        "TMPC CHEQUE/DD NO": "0",
+        "TM CANCELLATION REASON": "0",
+        "ORDER NUMBER": "JC-Fortune-N-2122-001137",
+        "TM ACCOUNT CODE": "5-CDKWB91",
+        "TMORDER CONTACT CODEID": "5-CDKWB8R",
+        "TM ACCOUNT NAME": "SUMIT MAHARASTRA",
+        "TM BILL ADJUSTMENT TYPE": "Received",
+        "TM ORDER CONTACT FIRST NAME": "SUMIT",
+        "TM ORDER CONTACT LAST NAME": "MAHARASHTRA",
+        "TM ORDER CONTACT MID NAME": "0",
+        "TM CREATED LOGIN": "ADURAI3000380",
+        "TM CUSTOMER CONTACT FULL NAME": "SUMIT  MAHARASHTRA",
+        "TM DEPOSITED ON BANK": "0",
+        "TM FINANCED BY": "0",
+        "TM ACCOUNT GSTIN": "0",
+        "TM HYPOTHECATED TO": "0",
+        "TM IINVOICE NUMBER BLNK": "0",
+        "TM DIVISION NAME": "3000380-Sv&Pa-Nerul-Fortune",
+        "TMPC PAYMENT AMOUNT NO RS": "50000",
+        "TM PAYMENT DATE": "2021-08-08 00:00:00"
+    }
+]
+
+
+//below are backend search parmaters to map and post request
+//Created_dt, Last_upd_dt
+//Post Request: https://aip-ae-receipts-qa-esb.api.tatamotors.com/api/crm/search

@@ -1,0 +1,41 @@
+[
+    {
+        "DEALER CODE": "3001370",
+        "ORGANIZATION": "MAA SAMLESHWARI AUTOMOBILES",
+        "ORG ID": "1-2D7BI9",
+        "TRANSACTION NO": "5-27137094501",
+        "TRANSACTION DATE ": "2022-02-01 13:34:12",
+        "TRANSACTION TYPE": "Adjustment",
+        "LAST UPDATED": "2022-02-01", //mandatory
+        "UPDATED BY USER": "PRDUSER1",
+        "COMMENTS": "Testing",
+        "COMMIT FLAG": "Y",
+        "CREATED": "2022-02-01 13:34:12",
+        "CREATED BY": "PSWAIN3001370",
+        "PART": "251926308303",
+        "UNIT OF MEASURE": "Each",
+        "DESTINATION AVAILABILITY": "On Hand",
+        "DESTINATION STATUS": "Good",
+        "SOURCE AVAILABILITY": "On Hand",
+        "SOURCE STATUS": "Good",
+        "PART NO": "251926308303",
+        "PART DESCRIPTION": "SHIM 0.125 MM",
+        "SERIALIZED PRODUCT": "N",
+        "PRODUCT CATEGORY": "Spare Part",
+        "TM HSN CODE": "8484.90.00",
+        "PART MOVEMENT ORDER ID": null,
+        "PRODUCT ACTIVITY ID": null,
+        "PRODUCT CYCLE COUNT ID": null,
+        "QUANTITY": "20",
+        "TM STOCK QUANTITY": "20",
+        "TM UNIT RECEIVING PRICE": null,
+        "TM DEST INVENTORY DISPLAY": "TMPC-PARTS-E-OR-3001370-MSamAu-Ainthapali",
+        "TM SOURCE INVENTORY DISPLAY": null,
+        "TM DESTINATION DIVISION NAME": "3001370-Sv&Pa-Ainthapali-MSamAu",
+        "TM SOURCE DIVISION NAME": "TMPC"
+    }
+]
+
+//below are backend search parmaters to map and post request
+//LAST_UPDATED
+//Post Request: https://aip-crm-stock-adjustment-extract-qa-esb.api.tatamotors.com/api/crm/search

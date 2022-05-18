@@ -1,0 +1,32 @@
+[
+    {
+        "DEALER CODE": "3000380",
+        "ORG ID": "1-6TT",
+        "CREATED DATE": "2017-05-29 17:00:30", 
+        "LAST UPDATED DATE": "2017-05-29", //mandatory
+        "ORDER ID": null,
+        "ORDER NUMBER": null, //mandatory
+        "ORDER DATE": null, //mandatory
+        "ORDER ITEM ID": null,
+        "CHALLAN NO": null,
+        "CHALLAN DATE": null,
+        "PART NUMBER": null,
+        "QUANTITY": "1",
+        "DISCOUNT 1": null,
+        "OTHER CHARGES": null,
+        "UOM": "Each",
+        "NET AMOUNT": null,
+        "DIVISION NAME": null,
+        "WARE HOUSE NAME": null,
+        "CGST": null,
+        "SGST": null,
+        "UTGST": null,
+        "IGST": null,
+        "HSN": "8708.99.00.AB",
+        "GSTIN": null
+    }
+]
+
+//below are backend search parmaters to map and post request
+//Last_upd_dt,Order_Date, Order_Number
+//Post Request: https://aip-crm-purchase-return-details-jdg-pv-qa-esb.api.tatamotors.com/api/crm/search

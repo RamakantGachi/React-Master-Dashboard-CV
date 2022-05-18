@@ -1,0 +1,20 @@
+[
+    {
+        "DEALER CODE": "3080580",
+        "CREATED DATE": "2020-12-21 18:28:31.0",
+        "LAST UPDATED DATE": "2020-12-24", 
+        "ORDER NUMBER": null, 
+        "LINE NUMBER": null,
+        "PART NUMBER": null,
+        "DESCRIPTION": "PART DESCRIPTION",
+        "QTY SHIPPED": null,
+        "UOM": "Each",
+        "WEIGHTED AVERAGE": null,
+        "SOURCE LOCATION": null,
+        "DESTINATION LOCATION": null,
+        "HSN": "8708.99.00.AB",
+        "RECIEVED QTY": null,
+        "LINE TOTAL": null
+    }
+]
+

@@ -1,0 +1,5 @@
+- [x] create pages of sales
+- [x] add side menu to slug pages
+- [x] add navigation to side menu
+- [ ] add table for sales/vehicle-sales-invoice
+- [x] add icons to boxes
